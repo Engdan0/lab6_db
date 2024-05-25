@@ -3,7 +3,7 @@ import theme from "./theme.js";
 import MarkdownItPlantuml from 'markdown-it-plantuml';
 
 export default defineUserConfig({
-  base: "/db-course-theme2/",
+  base: "/lab6_db/",
 
   lang: "en-US",
   title: "Система управління відкритими даними",
