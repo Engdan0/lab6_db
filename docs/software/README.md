@@ -32,5 +32,5 @@
 ### Rest API з всіма Endpoint
 
 ```
-<!-- @include: ./RESTfull_Service/RESTfull_Service.py -->
+<!-- @include: ./db_files/RESTfull_Service.py -->
 ```
